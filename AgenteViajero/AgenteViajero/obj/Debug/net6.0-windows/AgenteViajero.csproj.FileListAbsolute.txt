@@ -1,0 +1,17 @@
+D:\GIT\PERSONAL\AgenteViajero\AgenteViajero\bin\Debug\net6.0-windows\AgenteViajero.exe
+D:\GIT\PERSONAL\AgenteViajero\AgenteViajero\bin\Debug\net6.0-windows\AgenteViajero.deps.json
+D:\GIT\PERSONAL\AgenteViajero\AgenteViajero\bin\Debug\net6.0-windows\AgenteViajero.runtimeconfig.json
+D:\GIT\PERSONAL\AgenteViajero\AgenteViajero\bin\Debug\net6.0-windows\AgenteViajero.dll
+D:\GIT\PERSONAL\AgenteViajero\AgenteViajero\bin\Debug\net6.0-windows\AgenteViajero.pdb
+D:\GIT\PERSONAL\AgenteViajero\AgenteViajero\obj\Debug\net6.0-windows\AgenteViajero.csproj.AssemblyReference.cache
+D:\GIT\PERSONAL\AgenteViajero\AgenteViajero\obj\Debug\net6.0-windows\AgenteViajero.Form1.resources
+D:\GIT\PERSONAL\AgenteViajero\AgenteViajero\obj\Debug\net6.0-windows\AgenteViajero.csproj.GenerateResource.cache
+D:\GIT\PERSONAL\AgenteViajero\AgenteViajero\obj\Debug\net6.0-windows\AgenteViajero.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\PERSONAL\AgenteViajero\AgenteViajero\obj\Debug\net6.0-windows\AgenteViajero.AssemblyInfoInputs.cache
+D:\GIT\PERSONAL\AgenteViajero\AgenteViajero\obj\Debug\net6.0-windows\AgenteViajero.AssemblyInfo.cs
+D:\GIT\PERSONAL\AgenteViajero\AgenteViajero\obj\Debug\net6.0-windows\AgenteViajero.csproj.CoreCompileInputs.cache
+D:\GIT\PERSONAL\AgenteViajero\AgenteViajero\obj\Debug\net6.0-windows\AgenteViajero.dll
+D:\GIT\PERSONAL\AgenteViajero\AgenteViajero\obj\Debug\net6.0-windows\refint\AgenteViajero.dll
+D:\GIT\PERSONAL\AgenteViajero\AgenteViajero\obj\Debug\net6.0-windows\AgenteViajero.pdb
+D:\GIT\PERSONAL\AgenteViajero\AgenteViajero\obj\Debug\net6.0-windows\AgenteViajero.genruntimeconfig.cache
+D:\GIT\PERSONAL\AgenteViajero\AgenteViajero\obj\Debug\net6.0-windows\ref\AgenteViajero.dll
